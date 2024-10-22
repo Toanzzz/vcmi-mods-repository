@@ -556,7 +556,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.4/screenshots/screen12.png",
 			"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.4/screenshots/screen13.png"
 		],
-		"downloadSize" : 48.968
+		"downloadSize" : 48.969
 	},
 	"forge2k" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.6/Forge2k/mod.json",
@@ -797,7 +797,7 @@
 	"pvp-balance" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pvp-balance/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/pvp-balance/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 1.243
+		"downloadSize" : 1.245
 	},
 	"graphics-balance-music" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/graphics-balance-music/vcmi-1.6/graphics-balance-music/mod.json",
@@ -834,7 +834,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/witchking-artifacts/vcmi-1.5/screenshots/screen12.png",
 			"https://raw.githubusercontent.com/vcmi-mods/witchking-artifacts/vcmi-1.5/screenshots/screen13.png"
 		],
-		"downloadSize" : 8.746
+		"downloadSize" : 8.747
 	},
 	"moon-artifacts" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/moon-artifacts/vcmi-1.6/moon-artifacts/mod.json",
@@ -847,7 +847,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/moon-artifacts/vcmi-1.5/screenshots/screen5.png",
 			"https://raw.githubusercontent.com/vcmi-mods/moon-artifacts/vcmi-1.5/screenshots/screen6.png"
 		],
-		"downloadSize" : 2.386
+		"downloadSize" : 2.388
 	},
 	"factory-creatures" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/factory-creatures/vcmi-1.6/factory-creatures/mod.json",
