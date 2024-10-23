@@ -23,7 +23,7 @@
 	"wake-of-gods" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 76.486
+		"downloadSize" : 76.485
 	},
 	"tides-of-war" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.6/mod.json",
@@ -100,7 +100,7 @@
 	"reworked-commanders" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/reworked-commanders/vcmi-1.6/reworked-commanders/mod.json",
 		"download" : "https://github.com/vcmi-mods/reworked-commanders/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 9.271
+		"downloadSize" : 9.272
 	},
 	"andruids-expansion" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/vcmi-1.6/andruids-expansion/mod.json",
@@ -119,7 +119,7 @@
 	"german-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/german-translation/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/german-translation/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 106.447
+		"downloadSize" : 126.305
 	},
 	"spanish-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/spanish-translation/vcmi-1.6/spanish-translation/mod.json",
@@ -834,7 +834,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/witchking-artifacts/vcmi-1.5/screenshots/screen12.png",
 			"https://raw.githubusercontent.com/vcmi-mods/witchking-artifacts/vcmi-1.5/screenshots/screen13.png"
 		],
-		"downloadSize" : 8.747
+		"downloadSize" : 8.748
 	},
 	"moon-artifacts" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/moon-artifacts/vcmi-1.6/moon-artifacts/mod.json",
