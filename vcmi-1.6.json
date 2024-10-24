@@ -18,7 +18,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/08.png",
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/09.png"
 		],
-		"downloadSize" : 130.913
+		"downloadSize" : 130.92
 	},
 	"wake-of-gods" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.6/mod.json",
@@ -85,7 +85,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.4/screenshots/screen6.png",
 			"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.4/screenshots/screen7.png"
 		],
-		"downloadSize" : 50.807
+		"downloadSize" : 50.804
 	},
 	"cathedral-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.6/cathedral-town/mod.json",
@@ -270,7 +270,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.5/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.5/screenshots/screen2.png"
 		],
-		"downloadSize" : 11.062
+		"downloadSize" : 11.067
 	},
 	"ruins-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.6/ruins-town/mod.json",
@@ -565,7 +565,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.5/screenshots/screen01.png",
 			"https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.5/screenshots/screen02.png"
 		],
-		"downloadSize" : 21.79
+		"downloadSize" : 21.791
 	},
 	"ab-bad-ending-assets" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-assets/vcmi-1.6/AB Bad Ending Assets/mod.json",
