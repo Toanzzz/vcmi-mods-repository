@@ -18,7 +18,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/08.png",
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/09.png"
 		],
-		"downloadSize" : 130.92
+		"downloadSize" : 130.921
 	},
 	"wake-of-gods" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.6/mod.json",
@@ -28,7 +28,7 @@
 	"tides-of-war" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/tides-of-war/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 27.835
+		"downloadSize" : 27.836
 	},
 	"courtyard" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.6/Courtyard/mod.json",
@@ -393,7 +393,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/screenshots/screen3.png",
 			"https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/screenshots/screen4.png"
 		],
-		"downloadSize" : 18.422
+		"downloadSize" : 18.48
 	},
 	"heroes-iii-orchestra" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes-iii-orchestra/vcmi-1.6/Heroes%20III%20Orchestra/mod.json",
@@ -889,6 +889,6 @@
 			"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.6/screenshots/screen09.png",
 			"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.6/screenshots/screen10.png"
 		],
-		"downloadSize" : 167.244
+		"downloadSize" : 167.568
 	}
 }
