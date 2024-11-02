@@ -897,5 +897,10 @@
 			"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.6/screenshots/screen10.png"
 		],
 		"downloadSize" : 167.567
+	},
+	"czech-map-pack" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/czech-map-pack/vcmi-1.6/czech-map-pack/mod.json",
+		"download" : "https://github.com/vcmi-mods/czech-map-pack/archive/refs/heads/vcmi-1.6.zip",
+		"downloadSize" : 167.567
 	}
 }
