@@ -18,12 +18,12 @@
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/08.png",
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/09.png"
 		],
-		"downloadSize" : 131.008
+		"downloadSize" : 131.017
 	},
 	"wake-of-gods" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 76.547
+		"downloadSize" : 76.551
 	},
 	"tides-of-war" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.6/mod.json",
@@ -43,7 +43,7 @@
 	"new-old-heroes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-old-heroes/vcmi-1.6/new-old-heroes/mod.json",
 		"download" : "https://github.com/vcmi-mods/new-old-heroes/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 3.445,
+		"downloadSize" : 6.47,
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/new-old-heroes/vcmi-1.6/screenshots/StandaloneSoth.png",
 			"https://raw.githubusercontent.com/vcmi-mods/new-old-heroes/vcmi-1.6/screenshots/StandaloneNicolas.png",
@@ -235,7 +235,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.6/screenshots/tarnumVizier.png",
 			"https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.6/screenshots/tarnumMercenary.png"
 		],
-		"downloadSize" : 3.499
+		"downloadSize" : 3.542
 	},
 	"magic-fader" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/magic-fader/vcmi-1.6/mod.json",
@@ -303,7 +303,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.5/screenshots/ToW-menu.png",
 			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.5/screenshots/WoG-menu.png"
 		],
-		"downloadSize" : 124.886
+		"downloadSize" : 111.847
 	},
 	"creatures-hidden-potential" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/vcmi-1.6/creatures-hidden-potential/mod.json",
@@ -526,7 +526,7 @@
 	"boost-ai" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/boost-ai/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/boost-ai/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 0.015
+		"downloadSize" : 0.017
 	},
 	"an-expansion" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/an-expansion/vcmi-1.6/mod.json",
@@ -572,7 +572,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.5/screenshots/screen01.png",
 			"https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.5/screenshots/screen02.png"
 		],
-		"downloadSize" : 21.791
+		"downloadSize" : 21.82
 	},
 	"ab-bad-ending-assets" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-assets/vcmi-1.6/AB Bad Ending Assets/mod.json",
@@ -696,7 +696,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.4/screenshots/02.png",
 			"https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.4/screenshots/03.png"
 		],
-		"downloadSize" : 14.355
+		"downloadSize" : 19.209
 	},
 	"erathian-font" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/erathian-font/vcmi-1.6/erathian-font/mod.json",
@@ -706,7 +706,7 @@
 	"kartenarchiv" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/kartenarchiv-mappack/vcmi-1.6/kartenarchiv/mod.json",
 		"download" : "https://github.com/vcmi-mods/kartenarchiv-mappack/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 43.669
+		"downloadSize" : 71.687
 	},
 	"vampires-only-gameplay-enhancements" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/vampires-only-gameplay-enhancements/vcmi-1.6/vampiresOnlyGameplayEnhancements/mod.json",
