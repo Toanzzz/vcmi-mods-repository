@@ -181,7 +181,7 @@
 	"french-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/french-translation/vcmi-1.6/french-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/french-translation/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 28.775
+		"downloadSize" : 29.638
 	},
 	"vietnamese-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/vietnamese-translation/vcmi-1.6/vietnamese-translation/mod.json",
@@ -901,6 +901,6 @@
 	"czech-map-pack" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/czech-map-pack/vcmi-1.6/czech-map-pack/mod.json",
 		"download" : "https://github.com/vcmi-mods/czech-map-pack/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 167.567
+		"downloadSize" : 13.225
 	}
 }
