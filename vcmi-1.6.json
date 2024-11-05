@@ -114,15 +114,6 @@
 		"download" : "https://github.com/vcmi-mods/andruids-expansion/archive/refs/heads/vcmi-1.6.zip",
 		"downloadSize" : 6.709
 	},
-	"elemental-nodes" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/elemental-nodes/vcmi-1.6/elemental-nodes/mod.json",
-		"download" : "https://github.com/vcmi-mods/elemental-nodes/archive/refs/heads/vcmi-1.6.zip",
-		"screenshots" : [
-			"https://raw.githubusercontent.com/vcmi-mods/elemental-nodes/vcmi-1.5/screenshots/screen1.png",
-			"https://raw.githubusercontent.com/vcmi-mods/elemental-nodes/vcmi-1.5/screenshots/screen2.png"
-		],
-		"downloadSize" : 1.407
-	},
 	"german-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/german-translation/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/german-translation/archive/refs/heads/vcmi-1.6.zip",
@@ -597,15 +588,6 @@
 		"download" : "https://github.com/vcmi-mods/warzyw-templates/archive/refs/heads/vcmi-1.6.zip",
 		"downloadSize" : 0.542
 	},
-	"wyrmsun-boats" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wyrmsun-boats/vcmi-1.6/wyrmsun-boats/mod.json",
-		"download" : "https://github.com/vcmi-mods/wyrmsun-boats/archive/refs/heads/vcmi-1.6.zip",
-		"screenshots" : [
-			"https://raw.githubusercontent.com/vcmi-mods/wyrmsun-boats/vcmi-1.4/screenshots/screen1.png",
-			"https://raw.githubusercontent.com/vcmi-mods/wyrmsun-boats/vcmi-1.4/screenshots/screen2.png"
-		],
-		"downloadSize" : 1.795
-	},
 	"ensrick-portraits" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ensrick-portraits/vcmi-1.6/ensrick-portraits/mod.json",
 		"download" : "https://github.com/vcmi-mods/ensrick-portraits/archive/refs/heads/vcmi-1.6.zip",
@@ -790,7 +772,9 @@
 			"https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.6/screenshots/screen02.png",
 			"https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.6/screenshots/screen03.png",
 			"https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.6/screenshots/screen04.png",
-			"https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.6/screenshots/screen05.png"
+			"https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.6/screenshots/screen05.png",
+			"https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.6/screenshots/screen06.png",
+			"https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.6/screenshots/screen07.png"
 		],
 		"downloadSize" : 0.571
 	},
