@@ -45,11 +45,6 @@
 		"download" : "https://github.com/misiokles/golemcraft/archive/refs/heads/vcmi-1.4.zip",
 		"downloadSize" : 0.073
 	},
-	"ballista-bank" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/ballista-bank/vcmi-1.4/ballista-bank/mod.json",
-		"download" : "https://github.com/misiokles/ballista-bank/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 0.164
-	},
 	"slothlux-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/slothlux-town/vcmi-1.4/slothlux-town/mod.json",
 		"download" : "https://github.com/misiokles/slothlux-town/archive/refs/heads/vcmi-1.4.zip",
@@ -74,11 +69,6 @@
 		"mod" : "https://raw.githubusercontent.com/misiokles/h2-artifacts/vcmi-1.4/h2-artifacts/mod.json",
 		"download" : "https://github.com/misiokles/h2-artifacts/archive/refs/heads/vcmi-1.4.zip",
 		"downloadSize" : 0.173
-	},
-	"abaddon-column" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/abaddon-column/vcmi-1.4/abaddon-column/mod.json",
-		"download" : "https://github.com/misiokles/abaddon-column/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 0.033
 	},
 	"alpha-mod" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/alpha-mod/vcmi-1.4/alpha-mod/mod.json",
