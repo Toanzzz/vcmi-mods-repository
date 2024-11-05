@@ -786,8 +786,11 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.6/object-pack/mod.json",
 		"download" : "https://github.com/vcmi-mods/object-pack/archive/refs/heads/vcmi-1.6.zip",
 		"screenshots" : [
-			"https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.4/screenshots/screen1.png",
-			"https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.4/screenshots/screen2.png"
+			"https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.6/screenshots/screen01.png",
+			"https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.6/screenshots/screen02.png",
+			"https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.6/screenshots/screen03.png",
+			"https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.6/screenshots/screen04.png",
+			"https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.6/screenshots/screen05.png"
 		],
 		"downloadSize" : 0.571
 	},
