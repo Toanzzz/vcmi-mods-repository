@@ -894,5 +894,14 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/modder-tools-pack/main/modder-tools-pack/mod.json",
 		"download" : "https://github.com/vcmi-mods/modder-tools-pack/archive/refs/heads/main.zip",
 		"downloadSize" : 13.579
+	},
+	"new-monsters-pack" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes-o-pedia/vcmi-1.6/heroes-o-pedia/mod.json",
+		"download" : "https://github.com/vcmi-mods/heroes-o-pedia/archive/refs/heads/vcmi-1.6.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/vcmi-mods/heroes-o-pedia/vcmi-1.6/screenshots/screen01.png",
+			"https://raw.githubusercontent.com/vcmi-mods/heroes-o-pedia/vcmi-1.6/screenshots/screen02.png",
+			"https://raw.githubusercontent.com/vcmi-mods/heroes-o-pedia/vcmi-1.6/screenshots/screen03.png"
+		]
 	}
 }
