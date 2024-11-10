@@ -284,7 +284,8 @@
 	},
 	"ruins-town-var" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ruins-town-var/vcmi-1.6/ruins-town-var/mod.json",
-		"download" : "https://github.com/vcmi-mods/ruins-town-var/archive/refs/heads/vcmi-1.6.zip"
+		"download" : "https://github.com/vcmi-mods/ruins-town-var/archive/refs/heads/vcmi-1.6.zip",
+		"downloadSize" : 11.994
 	},
 	"h3-themes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.6/h3-themes/mod.json",
@@ -687,7 +688,7 @@
 	"erathian-font" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/erathian-font/vcmi-1.6/erathian-font/mod.json",
 		"download" : "https://github.com/vcmi-mods/erathian-font/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 0.159
+		"downloadSize" : 2.449
 	},
 	"kartenarchiv" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/kartenarchiv-mappack/vcmi-1.6/kartenarchiv/mod.json",
