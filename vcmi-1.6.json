@@ -422,12 +422,13 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.6/New%20Interface%20Mod/mod.json",
 		"download" : "https://github.com/vcmi-mods/new-interface-mod/archive/refs/heads/vcmi-1.6.zip",
 		"screenshots" : [
-			"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen1.png",
-			"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen2.png",
-			"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen3.png",
-			"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen4.png",
-			"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen5.png",
-			"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen6.png"
+			"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.4/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.4/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.4/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.4/screenshots/screen4.png",
+			"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.4/screenshots/screen5.png",
+			"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.4/screenshots/screen6.png",
+			"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.4/screenshots/screen7.png"
 		],
 		"downloadSize" : 46.469
 	},
