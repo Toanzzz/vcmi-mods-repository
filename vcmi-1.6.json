@@ -688,6 +688,11 @@
 	"erathian-font" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/erathian-font/vcmi-1.6/erathian-font/mod.json",
 		"download" : "https://github.com/vcmi-mods/erathian-font/archive/refs/heads/vcmi-1.6.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/vcmi-mods/erathian-font/vcmi-1.6/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/erathian-font/vcmi-1.6/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/erathian-font/vcmi-1.6/screenshots/screen33.png"
+		],
 		"downloadSize" : 2.449
 	},
 	"kartenarchiv" : {
