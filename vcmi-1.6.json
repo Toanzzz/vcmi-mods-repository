@@ -294,9 +294,9 @@
 			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.6/screenshots/screen5.png",
 			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.6/screenshots/wiki1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.6/screenshots/wiki2.png",
-			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.6/screenshots/wiki3.png"			
+			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.6/screenshots/wiki3.png"
 		],
-		"downloadSize" : 23.332
+		"downloadSize" : 26.797
 	},
 	"ruins-town-var" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ruins-town-var/vcmi-1.6/ruins-town-var/mod.json",
