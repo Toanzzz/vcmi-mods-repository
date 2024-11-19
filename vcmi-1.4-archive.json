@@ -43,7 +43,7 @@
 	"golemcraft" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/golemcraft/vcmi-1.4/golemcraft/mod.json",
 		"download" : "https://github.com/misiokles/golemcraft/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 0.073
+		"downloadSize" : 0.075
 	},
 	"ballista-bank" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/ballista-bank/vcmi-1.4/ballista-bank/mod.json",
@@ -145,7 +145,7 @@
 			"https://raw.githubusercontent.com/misiokles/fiorin-heroes/vcmi-1.5/screenshots/screen2.png",
 			"https://raw.githubusercontent.com/misiokles/fiorin-heroes/vcmi-1.5/screenshots/screen3.png"
 		],
-		"downloadSize" : 2.521
+		"downloadSize" : 2.524
 	},
 	"plane-of-earth-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/plane-of-earth-town/vcmi-1.5/plane-of-earth-town/mod.json",
@@ -156,7 +156,7 @@
 			"https://raw.githubusercontent.com/misiokles/plane-of-earth-town/vcmi-1.5/screenshots/screen3.png",
 			"https://raw.githubusercontent.com/misiokles/plane-of-earth-town/vcmi-1.5/screenshots/screen4.png"
 		],
-		"downloadSize" : 14.412
+		"downloadSize" : 14.416
 	},
 	"might-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/might-town/vcmi-1.5/might-town/mod.json",
@@ -167,7 +167,7 @@
 			"https://raw.githubusercontent.com/misiokles/might-town/vcmi-1.5/screenshots/screen3.png",
 			"https://raw.githubusercontent.com/misiokles/might-town/vcmi-1.5/screenshots/screen4.png"
 		],
-		"downloadSize" : 16.609
+		"downloadSize" : 16.616
 	},
 	"covenant-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/covenant-town/vcmi-1.5/covenant-town/mod.json",
