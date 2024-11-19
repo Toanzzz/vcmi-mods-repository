@@ -969,5 +969,13 @@
 			"https://raw.githubusercontent.com/vcmi-mods/vivid-battlefields/vcmi-1.6/screenshots/screen04.png"
 		],
 		"downloadSize" : 34.905
+	},
+	"fused-artifacts" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/fused-artifacts/main/fused-artifacts/mod.json",
+		"download" : "https://github.com/vcmi-mods/fused-artifacts/archive/refs/heads/main.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/vcmi-mods/fused-artifacts/main/screenshots/screen01.png"
+		],
+		"downloadSize" : 34.905
 	}
 }
