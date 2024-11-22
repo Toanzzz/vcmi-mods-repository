@@ -26,7 +26,7 @@
 	"wake-of-gods" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 76.591
+		"downloadSize" : 76.682
 	},
 	"tides-of-war" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.6/mod.json",
@@ -168,7 +168,7 @@
 	"swedish-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.6/swedish-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/swedish-translation/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 0.399
+		"downloadSize" : 0.402
 	},
 	"turkish-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/turkish-translation/vcmi-1.6/turkish-translation/mod.json",
@@ -354,7 +354,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/preserve-town/main/screenshots/screen5.png",
 			"https://raw.githubusercontent.com/vcmi-mods/preserve-town/main/screenshots/screen6.png"
 		],
-		"downloadSize" : 28.155
+		"downloadSize" : 21.521
 	},
 	"abyss-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/abyss-town/vcmi-1.6/abyss-town/mod.json",
@@ -723,7 +723,7 @@
 	"vampires-only-gameplay-enhancements" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/vampires-only-gameplay-enhancements/vcmi-1.6/vampiresOnlyGameplayEnhancements/mod.json",
 		"download" : "https://github.com/vcmi-mods/vampires-only-gameplay-enhancements/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 3.201
+		"downloadSize" : 3.203
 	},
 	"farriery-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/farriery-town/vcmi-1.6/farriery-town/mod.json",
@@ -882,7 +882,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/factory-creatures/vcmi-1.5/screenshots/screen3.png",
 			"https://raw.githubusercontent.com/vcmi-mods/factory-creatures/vcmi-1.5/screenshots/screen4.png"
 		],
-		"downloadSize" : 38.222
+		"downloadSize" : 38.259
 	},
 	"luk3Z-templates-pack" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/luk3Z-templates-pack/vcmi-1.6/luk3Z-templates-pack/mod.json",
@@ -913,7 +913,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.6/screenshots/screen09.png",
 			"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.6/screenshots/screen10.png"
 		],
-		"downloadSize" : 167.597
+		"downloadSize" : 167.598
 	},
 	"czech-map-pack" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/czech-map-pack/vcmi-1.6/czech-map-pack/mod.json",
