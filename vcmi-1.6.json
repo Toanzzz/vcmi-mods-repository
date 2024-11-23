@@ -26,7 +26,7 @@
 	"wake-of-gods" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 76.682
+		"downloadSize" : 76.692
 	},
 	"tides-of-war" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.6/mod.json",
@@ -547,7 +547,7 @@
 	"an-expansion" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/an-expansion/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/an-expansion/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 6.718
+		"downloadSize" : 6.725
 	},
 	"refugee-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.6/refugee-town/mod.json",
@@ -787,7 +787,7 @@
 	"phoenix-as-a-dream" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/phoenix-as-a-dream/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/phoenix-as-a-dream/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 7.668
+		"downloadSize" : 7.726
 	},
 	"extreme-ai" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/extreme-ai/vcmi-1.6/extreme-ai/mod.json",
