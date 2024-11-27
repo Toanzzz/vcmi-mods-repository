@@ -977,5 +977,10 @@
 			"https://raw.githubusercontent.com/vcmi-mods/fused-artifacts/main/screenshots/screen01.png"
 		],
 		"downloadSize" : 0.923
+	},
+	"heroes3-extended-soundtrack" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes3-extended-soundtrack/main/mod.json",
+		"download" : "https://github.com/vcmi-mods/heroes3-extended-soundtrack/archive/refs/heads/main.zip"
+		]
 	}
 }
