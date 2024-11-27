@@ -26,7 +26,7 @@
 	"wake-of-gods" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 63.506
+		"downloadSize" : 63.412
 	},
 	"tides-of-war" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.6/mod.json",
@@ -882,7 +882,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/factory-creatures/vcmi-1.5/screenshots/screen3.png",
 			"https://raw.githubusercontent.com/vcmi-mods/factory-creatures/vcmi-1.5/screenshots/screen4.png"
 		],
-		"downloadSize" : 38.312
+		"downloadSize" : 38.293
 	},
 	"luk3Z-templates-pack" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/luk3Z-templates-pack/vcmi-1.6/luk3Z-templates-pack/mod.json",
@@ -980,10 +980,12 @@
 	},
 	"heroes3-extended-soundtrack" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes3-extended-soundtrack/main/mod.json",
-		"download" : "https://github.com/vcmi-mods/heroes3-extended-soundtrack/archive/refs/heads/main.zip"
+		"download" : "https://github.com/vcmi-mods/heroes3-extended-soundtrack/archive/refs/heads/main.zip",
+		"downloadSize" : 248.28
 	},
 	"immortal-cultivation-heroes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/immortal-cultivation-heroes/vcmi-1.6/immortal-cultivation-heroes/mod.json",
-		"download" : "https://github.com/vcmi-mods/immortal-cultivation-heroes/archive/refs/heads/vcmi-1.6.zip"
+		"download" : "https://github.com/vcmi-mods/immortal-cultivation-heroes/archive/refs/heads/vcmi-1.6.zip",
+		"downloadSize" : 14.157
 	}
 }
