@@ -435,7 +435,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.6/screenshots/sc-6.png",
 			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.6/screenshots/sc-7.png"
 		],
-		"downloadSize" : 38.778
+		"downloadSize" : 38.779
 	},
 	"new-interface-mod" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.6/New%20Interface%20Mod/mod.json",
@@ -838,7 +838,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.5/screenshots/screen4.png",
 			"https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.5/screenshots/screen5.png"
 		],
-		"downloadSize" : 4.114
+		"downloadSize" : 4.116
 	},
 	"witchking-artifacts" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/witchking-artifacts/vcmi-1.6/witchking-artifacts/mod.json",
@@ -913,7 +913,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.6/screenshots/screen09.png",
 			"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.6/screenshots/screen10.png"
 		],
-		"downloadSize" : 167.598
+		"downloadSize" : 167.88
 	},
 	"czech-map-pack" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/czech-map-pack/vcmi-1.6/czech-map-pack/mod.json",
@@ -991,6 +991,6 @@
 			"https://raw.githubusercontent.com/vcmi-mods/immortal-cultivation-heroes/vcmi-1.6/screenshots/screen2.png",
 			"https://raw.githubusercontent.com/vcmi-mods/immortal-cultivation-heroes/vcmi-1.6/screenshots/screen3.png"
 		],
-		"downloadSize" : 14.13
+		"downloadSize" : 21.927
 	}
 }
