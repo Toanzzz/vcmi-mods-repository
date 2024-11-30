@@ -923,7 +923,7 @@
 	"modder-tools-pack" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/modder-tools-pack/main/modder-tools-pack/mod.json",
 		"download" : "https://github.com/vcmi-mods/modder-tools-pack/archive/refs/heads/main.zip",
-		"downloadSize" : 43.234
+		"downloadSize" : 68.457
 	},
 	"heroes-o-pedia" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes-o-pedia/vcmi-1.6/heroes-o-pedia/mod.json",
@@ -995,10 +995,12 @@
 	},
 	"hq-music" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/hq-music/main/mod.json",
-		"download" : "https://github.com/vcmi-mods/hq-music/archive/refs/heads/main.zip"
+		"download" : "https://github.com/vcmi-mods/hq-music/archive/refs/heads/main.zip",
+		"downloadSize" : 227.359
 	},
 	"new-sfx-sounds" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-sfx-sounds/main/mod.json",
-		"download" : "https://github.com/vcmi-mods/new-sfx-sounds/archive/refs/heads/main.zip"
+		"download" : "https://github.com/vcmi-mods/new-sfx-sounds/archive/refs/heads/main.zip",
+		"downloadSize" : 47.069
 	}
 }
