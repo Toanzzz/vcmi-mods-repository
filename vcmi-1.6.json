@@ -978,11 +978,6 @@
 		],
 		"downloadSize" : 0.923
 	},
-	"heroes3-extended-soundtrack" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes3-extended-soundtrack/main/mod.json",
-		"download" : "https://github.com/vcmi-mods/heroes3-extended-soundtrack/archive/refs/heads/main.zip",
-		"downloadSize" : 248.28
-	},
 	"immortal-cultivation-heroes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/immortal-cultivation-heroes/vcmi-1.6/lmods/mod.json",
 		"download" : "https://github.com/vcmi-mods/immortal-cultivation-heroes/archive/refs/heads/vcmi-1.6.zip",
@@ -992,5 +987,18 @@
 			"https://raw.githubusercontent.com/vcmi-mods/immortal-cultivation-heroes/vcmi-1.6/screenshots/screen3.png"
 		],
 		"downloadSize" : 21.927
+	},
+	"heroes3-extended-soundtrack" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes3-extended-soundtrack/main/mod.json",
+		"download" : "https://github.com/vcmi-mods/heroes3-extended-soundtrack/archive/refs/heads/main.zip",
+		"downloadSize" : 248.28
+	},
+	"hq-music" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/hq-music/main/mod.json",
+		"download" : "https://github.com/vcmi-mods/hq-music/archive/refs/heads/main.zip"
+	},
+	"new-sfx-sounds" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-sfx-sounds/main/mod.json",
+		"download" : "https://github.com/vcmi-mods/new-sfx-sounds/archive/refs/heads/main.zip"
 	}
 }
