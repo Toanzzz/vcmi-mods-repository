@@ -26,12 +26,12 @@
 	"wake-of-gods" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 63.406
+		"downloadSize" : 63.41
 	},
 	"tides-of-war" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/tides-of-war/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 27.895
+		"downloadSize" : 27.896
 	},
 	"courtyard" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.6/Courtyard/mod.json",
@@ -851,7 +851,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.6/screenshots/screen09.png",
 			"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.6/screenshots/screen10.png"
 		],
-		"downloadSize" : 177.735
+		"downloadSize" : 177.741
 	},
 	"czech-map-pack" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/czech-map-pack/vcmi-1.6/czech-map-pack/mod.json",
