@@ -473,7 +473,7 @@
 	"lotrd-townscreens" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/lotrd-townscreens/vcmi-1.6/lotrd-townscreens/mod.json",
 		"download" : "https://github.com/vcmi-mods/lotrd-townscreens/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 13.252
+		"downloadSize" : 13.253
 	},
 	"boost-ai" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/boost-ai/vcmi-1.6/mod.json",
@@ -943,6 +943,7 @@
 	},
 	"alternate-townscreens" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/alternate-townscreens/vcmi-1.6/alternate-townscreens/mod.json",
-		"download" : "https://github.com/vcmi-mods/alternate-townscreens/archive/refs/heads/vcmi-1.6.zip"
+		"download" : "https://github.com/vcmi-mods/alternate-townscreens/archive/refs/heads/vcmi-1.6.zip",
+		"downloadSize" : 60.408
 	}
 }
