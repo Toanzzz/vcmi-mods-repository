@@ -940,5 +940,9 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-sfx-sounds/main/mod.json",
 		"download" : "https://github.com/vcmi-mods/new-sfx-sounds/archive/refs/heads/main.zip",
 		"downloadSize" : 47.069
+	},
+	"alternate-townscreens" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/alternate-townscreens/vcmi-1.6/alternate-townscreens/mod.json",
+		"download" : "https://github.com/vcmi-mods/alternate-townscreens/archive/refs/heads/vcmi-1.6.zip"
 	}
 }
