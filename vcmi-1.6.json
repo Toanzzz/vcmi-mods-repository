@@ -756,11 +756,6 @@
 		"download" : "https://github.com/vcmi-mods/simple-game-balance/archive/refs/heads/vcmi-1.6.zip",
 		"downloadSize" : 0.01
 	},
-	"pvp-balance" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pvp-balance/vcmi-1.6/mod.json",
-		"download" : "https://github.com/vcmi-mods/pvp-balance/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 1.245
-	},
 	"graphics-balance-music" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/graphics-balance-music/vcmi-1.6/graphics-balance-music/mod.json",
 		"download" : "https://github.com/vcmi-mods/graphics-balance-music/archive/refs/heads/vcmi-1.6.zip",
