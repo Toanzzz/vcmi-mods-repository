@@ -940,5 +940,14 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/alternate-townscreens/vcmi-1.6/alternate-townscreens/mod.json",
 		"download" : "https://github.com/vcmi-mods/alternate-townscreens/archive/refs/heads/vcmi-1.6.zip",
 		"downloadSize" : 60.408
+	},
+	"a-song-of-ice-and-fire" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/a-song-of-ice-and-fire/main/a-song-of-ice-and-fire/mod.json",
+		"download" : "https://github.com/vcmi-mods/a-song-of-ice-and-fire/archive/refs/heads/main.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/vcmi-mods/a-song-of-ice-and-fire/main/screenshots/screen1.png"
+			"https://raw.githubusercontent.com/vcmi-mods/a-song-of-ice-and-fire/main/screenshots/screen2.png"
+			"https://raw.githubusercontent.com/vcmi-mods/a-song-of-ice-and-fire/main/screenshots/screen3.png"
+		]
 	}
 }
