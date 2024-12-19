@@ -949,5 +949,9 @@
 			"https://raw.githubusercontent.com/vcmi-mods/a-song-of-ice-and-fire/main/screenshots/screen2.png"
 			"https://raw.githubusercontent.com/vcmi-mods/a-song-of-ice-and-fire/main/screenshots/screen3.png"
 		]
+	},
+	"movement-arrows" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/movement-arrows/main/mod.json",
+		"download" : "https://github.com/vcmi-mods/movement-arrows/archive/refs/heads/main.zip"
 	}
 }
