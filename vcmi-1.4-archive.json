@@ -238,18 +238,14 @@
 		],
 		"downloadSize" : 21.218
 	},
-	"ark-town" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/ark-town/vcmi-1.6/ark-town/mod.json",
-		"download" : "https://github.com/misiokles/ark-town/archive/refs/heads/vcmi-1.6.zip",
-		"screenshots" : [
-			"https://raw.githubusercontent.com/misiokles/ark-town/vcmi-1.6/screenshots/screen1.png",
-			"https://raw.githubusercontent.com/misiokles/ark-town/vcmi-1.6/screenshots/screen2.png"
-		],
-		"downloadSize" : 16.481
-	},
 	"kremlin-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/kremlin-town/vcmi-1.5/kremlin-town/mod.json",
 		"download" : "https://github.com/misiokles/kremlin-town/archive/refs/heads/vcmi-1.5.zip",
 		"downloadSize" : 16.382
+	},
+	"pah3-singleplayer-tournament" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.6/pah3-singleplayer-tournament/mod.json",
+		"download" : "https://github.com/vcmi-mods/pah3-singleplayer-tournament/archive/refs/heads/vcmi-1.6.zip",
+		"downloadSize" : 10.305
 	}
 }

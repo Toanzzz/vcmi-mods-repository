@@ -628,11 +628,6 @@
 		],
 		"downloadSize" : 35.189
 	},
-	"pah3-singleplayer-tournament" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.6/pah3-singleplayer-tournament/mod.json",
-		"download" : "https://github.com/vcmi-mods/pah3-singleplayer-tournament/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 10.305
-	},
 	"mighty-heroes-iii" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.6/mighty-heroes-iii/mod.json",
 		"download" : "https://github.com/vcmi-mods/mighty-heroes-iii/archive/refs/heads/vcmi-1.6.zip",
@@ -955,5 +950,14 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/movement-arrows/main/mod.json",
 		"download" : "https://github.com/vcmi-mods/movement-arrows/archive/refs/heads/main.zip",
 		"downloadSize" : 0.1
+	},
+	"ark-town" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ark-town/vcmi-1.6/ark-town/mod.json",
+		"download" : "https://github.com/vcmi-mods/ark-town/archive/refs/heads/vcmi-1.6.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/vcmi-mods/ark-town/vcmi-1.6/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/ark-town/vcmi-1.6/screenshots/screen2.png"
+		],
+		"downloadSize" : 16.481
 	}
 }
