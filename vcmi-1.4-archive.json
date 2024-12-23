@@ -245,7 +245,7 @@
 			"https://raw.githubusercontent.com/misiokles/ark-town/vcmi-1.6/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/misiokles/ark-town/vcmi-1.6/screenshots/screen2.png"
 		],
-		"downloadSize" : 16.48
+		"downloadSize" : 16.481
 	},
 	"kremlin-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/kremlin-town/vcmi-1.5/kremlin-town/mod.json",
