@@ -221,7 +221,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.6/screenshots/screen5.png",
 			"https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.6/screenshots/screen6.png"
 		],
-		"downloadSize" : 15.093
+		"downloadSize" : 20.144
 	},
 	"ai trace" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/adventure-ai-trace/upstream/mod.json",
@@ -283,7 +283,7 @@
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/fairy-town/main/screenshots/screen1.png"
 		],
-		"downloadSize" : 14.863
+		"downloadSize" : 21.587
 	},
 	"haven-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.6/haven-town/mod.json",
@@ -326,7 +326,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.5/screenshots/ToW-menu.png",
 			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.5/screenshots/WoG-menu.png"
 		],
-		"downloadSize" : 192.083
+		"downloadSize" : 233.821
 	},
 	"creatures-hidden-potential" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/vcmi-1.6/creatures-hidden-potential/mod.json",
@@ -362,7 +362,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/preserve-town/main/screenshots/screen5.png",
 			"https://raw.githubusercontent.com/vcmi-mods/preserve-town/main/screenshots/screen6.png"
 		],
-		"downloadSize" : 21.531
+		"downloadSize" : 21.526
 	},
 	"abyss-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/abyss-town/vcmi-1.6/abyss-town/mod.json",
