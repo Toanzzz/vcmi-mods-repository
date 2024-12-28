@@ -135,7 +135,7 @@
 			"https://raw.githubusercontent.com/misiokles/fiorin-heroes/vcmi-1.5/screenshots/screen2.png",
 			"https://raw.githubusercontent.com/misiokles/fiorin-heroes/vcmi-1.5/screenshots/screen3.png"
 		],
-		"downloadSize" : 2.524
+		"downloadSize" : 2.525
 	},
 	"plane-of-earth-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/plane-of-earth-town/vcmi-1.5/plane-of-earth-town/mod.json",
@@ -146,7 +146,7 @@
 			"https://raw.githubusercontent.com/misiokles/plane-of-earth-town/vcmi-1.5/screenshots/screen3.png",
 			"https://raw.githubusercontent.com/misiokles/plane-of-earth-town/vcmi-1.5/screenshots/screen4.png"
 		],
-		"downloadSize" : 14.416
+		"downloadSize" : 14.417
 	},
 	"might-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/might-town/vcmi-1.5/might-town/mod.json",
