@@ -747,7 +747,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.6/screenshots/screen06.png",
 			"https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.6/screenshots/screen07.png"
 		],
-		"downloadSize" : 6.404
+		"downloadSize" : 6.405
 	},
 	"tavern-invite" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tavern-invite/vcmi-1.6/mod.json",
@@ -849,7 +849,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.6/screenshots/screen09.png",
 			"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.6/screenshots/screen10.png"
 		],
-		"downloadSize" : 178.614
+		"downloadSize" : 178.746
 	},
 	"czech-map-pack" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/czech-map-pack/vcmi-1.6/czech-map-pack/mod.json",
