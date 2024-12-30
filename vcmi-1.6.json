@@ -26,7 +26,7 @@
 	"wake-of-gods" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 63.445
+		"downloadSize" : 62.598
 	},
 	"tides-of-war" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.6/mod.json",
@@ -49,7 +49,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.6/screenshots/lore_part1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.6/screenshots/lore_part2.png"
 		],
-		"downloadSize" : 32.831
+		"downloadSize" : 32.832
 	},
 	"neutral-heroes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/neutral-heroes/vcmi-1.6/mod.json",
@@ -118,7 +118,7 @@
 	"death-valley-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/death-valley-town/vcmi-1.6/death-valley-town/mod.json",
 		"download" : "https://github.com/vcmi-mods/death-valley-town/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 20.103
+		"downloadSize" : 20.104
 	},
 	"reworked-commanders" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/reworked-commanders/vcmi-1.6/reworked-commanders/mod.json",
@@ -241,7 +241,7 @@
 	"campaign-heroes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/campaign-heroes/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/campaign-heroes/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 0.199
+		"downloadSize" : 0.202
 	},
 	"tarnum" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.6/tarnum/mod.json",
@@ -283,7 +283,7 @@
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/fairy-town/main/screenshots/screen1.png"
 		],
-		"downloadSize" : 21.587
+		"downloadSize" : 21.588
 	},
 	"haven-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.6/haven-town/mod.json",
@@ -412,7 +412,7 @@
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/new-old-spells-plus/main/screenshots/screen1.png"
 		],
-		"downloadSize" : 2.103
+		"downloadSize" : 2.104
 	},
 	"portraits-packs" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/portraits-packs/vcmi-1.6/Portaits%20packs/mod.json",
@@ -541,7 +541,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-assets/vcmi-1.4/screenshots/screen01.png",
 			"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-assets/vcmi-1.4/screenshots/screen02.png"
 		],
-		"downloadSize" : 16.478
+		"downloadSize" : 16.48
 	},
 	"ab-bad-ending-maps" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.6/AB Bad Ending Maps/mod.json",
@@ -774,7 +774,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.5/screenshots/screen4.png",
 			"https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.5/screenshots/screen5.png"
 		],
-		"downloadSize" : 4.211
+		"downloadSize" : 4.212
 	},
 	"witchking-artifacts" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/witchking-artifacts/vcmi-1.6/witchking-artifacts/mod.json",
@@ -888,7 +888,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/chronicles-enhanced/vcmi-1.6/screenshots/screen02.png",
 			"https://raw.githubusercontent.com/vcmi-mods/chronicles-enhanced/vcmi-1.6/screenshots/screen03.png"
 		],
-		"downloadSize" : 5.815
+		"downloadSize" : 5.776
 	},
 	"overall-ai-bonus" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/overall-ai-bonus/vcmi-1.6/overall-ai-bonus/mod.json",
@@ -966,6 +966,6 @@
 			"https://raw.githubusercontent.com/vcmi-mods/ark-town/vcmi-1.6/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/ark-town/vcmi-1.6/screenshots/screen2.png"
 		],
-		"downloadSize" : 16.481
+		"downloadSize" : 16.487
 	}
 }
