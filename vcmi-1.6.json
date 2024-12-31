@@ -5,7 +5,7 @@
 		"downloadSize" : 2.175
 	},
 	"hota" : {
-		"mod" : "https://raw.githubusercontent.com/Toanzzz/vcmi-mods-horn-of-the-abyss/vcmi-1.6/hota/mod.json",
+		"mod" : "https://raw.githubusercontent.com/Toanzzz/vcmi-mods-horn-of-the-abyss/refs/heads/vcmi-1.6/hota/mod.json",
 		"download" : "https://github.com/Toanzzz/vcmi-mods-horn-of-the-abyss/archive/refs/heads/vcmi-1.6.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/Toanzzz/vcmi-mods-horn-of-the-abyss/vcmi-1.4/screenshots/01.png",
