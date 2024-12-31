@@ -5,21 +5,21 @@
 		"downloadSize" : 2.175
 	},
 	"hota" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/hota/mod.json",
-		"download" : "https://github.com/vcmi-mods/horn-of-the-abyss/archive/refs/heads/vcmi-1.6.zip",
+		"mod" : "https://raw.githubusercontent.com/Toanzzz/vcmi-mods-horn-of-the-abyss/vcmi-1.6/hota/mod.json",
+		"download" : "https://github.com/Toanzzz/vcmi-mods-horn-of-the-abyss/archive/refs/heads/vcmi-1.6.zip",
 		"screenshots" : [
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/01.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/02.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/03.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/04.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/05.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/06.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/07.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/08.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/09.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki1.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki2.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki3.png"
+			"https://raw.githubusercontent.com/Toanzzz/vcmi-mods-horn-of-the-abyss/vcmi-1.4/screenshots/01.png",
+			"https://raw.githubusercontent.com/Toanzzz/vcmi-mods-horn-of-the-abyss/vcmi-1.4/screenshots/02.png",
+			"https://raw.githubusercontent.com/Toanzzz/vcmi-mods-horn-of-the-abyss/vcmi-1.4/screenshots/03.png",
+			"https://raw.githubusercontent.com/Toanzzz/vcmi-mods-horn-of-the-abyss/vcmi-1.4/screenshots/04.png",
+			"https://raw.githubusercontent.com/Toanzzz/vcmi-mods-horn-of-the-abyss/vcmi-1.4/screenshots/05.png",
+			"https://raw.githubusercontent.com/Toanzzz/vcmi-mods-horn-of-the-abyss/vcmi-1.4/screenshots/06.png",
+			"https://raw.githubusercontent.com/Toanzzz/vcmi-mods-horn-of-the-abyss/vcmi-1.4/screenshots/07.png",
+			"https://raw.githubusercontent.com/Toanzzz/vcmi-mods-horn-of-the-abyss/vcmi-1.4/screenshots/08.png",
+			"https://raw.githubusercontent.com/Toanzzz/vcmi-mods-horn-of-the-abyss/vcmi-1.4/screenshots/09.png",
+			"https://raw.githubusercontent.com/Toanzzz/vcmi-mods-horn-of-the-abyss/vcmi-1.6/screenshots/wiki1.png",
+			"https://raw.githubusercontent.com/Toanzzz/vcmi-mods-horn-of-the-abyss/vcmi-1.6/screenshots/wiki2.png",
+			"https://raw.githubusercontent.com/Toanzzz/vcmi-mods-horn-of-the-abyss/vcmi-1.6/screenshots/wiki3.png"
 		],
 		"downloadSize" : 133.963
 	},
